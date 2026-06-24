@@ -1,2 +1,8 @@
 web-ext-artifacts
 test
+.DS_Store
+dist/
+src.zip
+*.crx
+secrets/
+.git-crypt/
